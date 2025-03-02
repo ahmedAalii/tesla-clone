@@ -1,6 +1,6 @@
 # Tesla Clone
 
-🚗 **Tesla Clone** is a front-end web project built using **Vite, React, and Firebase Hosting** to replicate Tesla's official website design.
+🚗 **Tesla Clone** is a front-end web project built using **Vite, React, Tailwind, and Firebase Hosting** to replicate Tesla's official website design.
 
 ## 🌟 Live Demo
 🔗 **[Tesla Clone Live](https://tesla-clone-80523.web.app/)**
