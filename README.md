@@ -11,7 +11,7 @@
 - Deployed using **Firebase Hosting**
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Vite, Tailwind CSS (if used)
+- **Frontend:** React, Vite, Tailwind CSS 
 - **Deployment:** Firebase Hosting
 
 ## 🚀 Installation & Setup
